@@ -34,18 +34,18 @@ To install and run the So_Long project, follow these steps:
 
 Clone the project repository: 
 			
-			git clone https://github.com/your_username/42-so_long.git
+					git clone https://github.com/your_username/42-so_long.git
 Navigate to the project directory: 
 			
-			cd 42-so_long
+					cd 42-so_long
 Compile the project using the provided Makefile: 
 <br/>			
 
-			make
+					make
 Run the game executable: 
 <br/>			
 
-			./so_long maps/map.ber
+					./so_long maps/map.ber
 			
 <br/>
 Make sure you have the MinilibX library installed on your system. If it's not already installed, you can find the library and installation instructions in the project repository.
