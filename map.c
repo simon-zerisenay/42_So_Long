@@ -26,7 +26,7 @@ void	window_size(t_data *data, char **argv)
 	if (ft_strnstr(argv[1], ".ber", ft_strlen(argv[1])) == NULL)
 	{
 		printf("Error\nmap has to be .ber\n");
-		exit(EXIT_FAILURE);
+		exit(EXIT_FAILURE); 
 	}
 	data->size_x = (ft_line_length(fd) * IMG_W);
 	data->size_y = (ft_count_lines(fd, data->size_x, IMG_W) * IMG_H);
