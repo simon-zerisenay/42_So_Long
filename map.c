@@ -35,7 +35,7 @@ void	window_size(t_data *data, char **argv)
 void	create_map(t_data *data)
 /* This function will fill the map with the corresponding images */
 {
-	data->map->x = 0;
+	data->map->x = 0; 
 	data->map->y = 0;
 	while (data->map->y < (data->size_y / IMG_H))
 	{
