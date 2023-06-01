@@ -18,7 +18,7 @@ void	window_size(t_data *data, char **argv)
 	int	fd;
 
 	fd = open(argv[1], O_RDONLY);
-	if (fd < 0)
+	if (fd < 0)  
 	{
 		perror("Error\nInvalid map_path/map\n");
 		exit(EXIT_FAILURE); 
