@@ -28,7 +28,7 @@ void	window_size(t_data *data, char **argv)
 		printf("Error\nmap has to be .ber\n");
 		exit(EXIT_FAILURE); 
 	} 
-	data->size_x = (ft_line_length(fd) * IMG_W);
+	data->size_x = (ft_line_length(fd) * IMG_W); 
 	data->size_y = (ft_count_lines(fd, data->size_x, IMG_W) * IMG_H);
 }
 
