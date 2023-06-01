@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include "so_long.h"
-
+ 
 void	window_size(t_data *data, char **argv)
 /* This function will find the window size and check for some errors */
 {
