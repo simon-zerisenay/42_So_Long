@@ -21,7 +21,7 @@ void	window_size(t_data *data, char **argv)
 	if (fd < 0)
 	{
 		perror("Error\nInvalid map_path/map\n");
-		exit(EXIT_FAILURE);
+		exit(EXIT_FAILURE); 
 	}
 	if (ft_strnstr(argv[1], ".ber", ft_strlen(argv[1])) == NULL)
 	{
