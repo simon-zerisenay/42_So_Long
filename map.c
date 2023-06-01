@@ -14,7 +14,7 @@
  
 void	window_size(t_data *data, char **argv)
 /* This function will find the window size and check for some errors */
-{
+{ 
 	int	fd;
 
 	fd = open(argv[1], O_RDONLY);
