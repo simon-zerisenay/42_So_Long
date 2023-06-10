@@ -7,7 +7,7 @@
 </div>
 <label>
 	<h2> Score </h2>	
-	<img alt="110" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/100.png"/>
+	<img alt="110" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/110.png"/>
 </label>
 <h2>Introduction </h2>
 <p align="center">
