@@ -55,9 +55,12 @@ Compile the project using the provided Makefile:
 Run the game executable: 
 <br/>			
 
-				./so_long maps/map.ber
+				./so_long maps/map3.ber
 			
 <br/>
+<div align="center">
+	<img alt="Game" src="https://img.shields.io/github/last-commit/simon-zerisenay/42_So_Long?color=green" />
+</div>
 Make sure you have the MinilibX library installed on your system. If it's not already installed, you can find the library and installation instructions in the project repository.
 
 <h2>Testing </h2>
