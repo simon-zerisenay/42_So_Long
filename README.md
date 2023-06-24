@@ -59,7 +59,7 @@ Run the game executable:
 			
 <br/>
 <div align="center">
-	<img alt="Game" src="https://img.shields.io/github/last-commit/simon-zerisenay/42_So_Long?color=green" />
+	<img alt="Game" src="https://github.com/simon-zerisenay/42_So_Long/blob/master/game.png" />
 </div>
 Make sure you have the MinilibX library installed on your system. If it's not already installed, you can find the library and installation instructions in the project repository.
 
