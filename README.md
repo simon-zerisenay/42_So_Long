@@ -58,14 +58,14 @@ Run the game executable:
 				./so_long maps/map3.ber
 			
 <br/>
-<div align="center">
-	<img alt="Game" src="https://github.com/simon-zerisenay/42_So_Long/blob/master/game.png" />
-</div>
+
 Make sure you have the MinilibX library installed on your system. If it's not already installed, you can find the library and installation instructions in the project repository.
 
 <h2>Testing </h2>
 To test the game and validate its functionality, follow these steps:
-
+<div align="center">
+	<img alt="Game" src="https://github.com/simon-zerisenay/42_So_Long/blob/master/game.png" />
+</div>
 Launch the game using the installation steps mentioned above.
 Navigate through the map using the arrow keys or WASD keys.
 Ensure the player can move freely within the map and is restricted by walls and boundaries.
