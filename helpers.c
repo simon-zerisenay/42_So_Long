@@ -12,7 +12,7 @@
 
 #include "so_long.h"
 
-void	find_px_py(t_data *data)
+void	find_px_py(t_data *data) 
 {
 	int	x;
 	int	y;
